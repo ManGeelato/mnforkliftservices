@@ -17,7 +17,7 @@ export default function ServicesPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-20">
             <div className="order-2 lg:order-1">
               <img
-                src="https://images.pexels.com/photos/1078884/pexels-photo-1078884.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/IMG-20251114-WA0058.jpg"
                 alt="Forklift services"
                 className="rounded-xl shadow-2xl"
               />
@@ -81,7 +81,7 @@ export default function ServicesPage() {
             </div>
             <div>
               <img
-                src="https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/IMG-20251114-WA0071.jpg"
                 alt="Earth moving vehicles"
                 className="rounded-xl shadow-2xl"
               />
@@ -91,7 +91,7 @@ export default function ServicesPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="order-2 lg:order-1">
               <img
-                src="https://images.pexels.com/photos/2199293/pexels-photo-2199293.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/IMG-20251114-WA0051.jpg"
                 alt="Heavy duty vehicles"
                 className="rounded-xl shadow-2xl"
               />
