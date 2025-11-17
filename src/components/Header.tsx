@@ -35,11 +35,17 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
             <img
               src="/da1860cb-3cd1-4bec-b1a2-159f292be52c_removalai_preview.png"
               alt="MN Forklift Services"
-              className="h-17 w-16"
+              className="h-16 w-auto"
             />
+
             <div>
-              <h1 className="text-2xl font-bold">MN FORKLIFT SERVICES</h1>
-              <p className="text-sm text-blue-300">Forklifts, Earth Moving and Heavy Duty Solutions</p>
+              <h1 className="text-lg sm:text-xl md:text-2xl font-bold">
+                MN FORKLIFT SERVICES
+              </h1>
+
+              <p className="text-xs sm:text-sm text-blue-300">
+                Forklifts, Earth Moving and Heavy Duty Solutions
+              </p>
             </div>
           </div>
 
