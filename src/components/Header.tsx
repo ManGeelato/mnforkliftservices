@@ -28,18 +28,18 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
     <header className="bg-slate-900 text-white sticky top-0 z-50 shadow-lg">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
-          <div
+         <div
             className="flex items-center space-x-3 cursor-pointer"
             onClick={() => handleNavigate('home')}
           >
             <img
               src="/da1860cb-3cd1-4bec-b1a2-159f292be52c_removalai_preview.png"
               alt="MN Forklift Services"
-              className="h-14 w-14"
+              className="h-17 w-16"
             />
             <div>
-              <h1 className="text-xl font-bold">MN FORKLIFT SERVICES</h1>
-              <p className="text-xs text-blue-300">Forklifts, Earth Moving and Heavy Duty Solutions</p>
+              <h1 className="text-2xl font-bold">MN FORKLIFT SERVICES</h1>
+              <p className="text-sm text-blue-300">Forklifts, Earth Moving and Heavy Duty Solutions</p>
             </div>
           </div>
 
