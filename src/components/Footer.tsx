@@ -87,7 +87,9 @@ export default function Footer({ onNavigate }: FooterProps) {
             &copy; {new Date().getFullYear()} MN Forklift Services. All rights reserved.
           </p>
           <p className="text-sm text-gray-400">
-            &copy; {new Date().getFullYear()} MN Forklift Services. All rights reserved.
+            &copy; {new Date().getFullYear()} Designed by&nbsp;
+                <a href="https://www.linkedin.com/in/emmanuel-kaome-0247b7224/" target="_blank"
+                  >Emmanuel 'Gadaffi' Kaome</a>.
           </p>
         </div>
       </div>
